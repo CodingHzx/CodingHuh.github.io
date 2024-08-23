@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-CN"
-title                    : "Huangzhixin"
+title                    : "黄志鑫"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
